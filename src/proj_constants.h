@@ -231,12 +231,19 @@
 
 #define PROJ_WKT2_NAME_METHOD_POLE_ROTATION_GRIB_CONVENTION "Pole rotation (GRIB convention)"
 
+#define EPSG_NAME_METHOD_COLOMBIA_URBAN "Colombia Urban"
+#define EPSG_CODE_METHOD_COLOMBIA_URBAN 1052
+
 /* ------------------------------------------------------------------------ */
 
 /* Projection parameters */
 
 #define EPSG_NAME_PARAMETER_COLATITUDE_CONE_AXIS "Co-latitude of cone axis"
 #define EPSG_CODE_PARAMETER_COLATITUDE_CONE_AXIS 1036
+
+#define EPSG_NAME_PARAMETER_PROJECTION_PLANE_ORIGIN_HEIGHT \
+    "Projection plane origin height"
+#define EPSG_CODE_PARAMETER_PROJECTION_PLANE_ORIGIN_HEIGHT 1039
 
 #define EPSG_NAME_PARAMETER_LATITUDE_OF_NATURAL_ORIGIN \
     "Latitude of natural origin"
