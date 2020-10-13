@@ -169,6 +169,7 @@ set(SRC_LIBPROJ_PROJECTIONS
 set(SRC_LIBPROJ_CONVERSIONS
   conversions/axisswap.cpp
   conversions/cart.cpp
+  conversions/colurban.cpp
   conversions/geoc.cpp
   conversions/geocent.cpp
   conversions/noop.cpp

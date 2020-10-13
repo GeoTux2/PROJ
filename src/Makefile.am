@@ -183,6 +183,7 @@ libproj_la_SOURCES = \
 	\
 	conversions/axisswap.cpp \
 	conversions/cart.cpp \
+	conversions/colurban.cpp \
 	conversions/geoc.cpp \
 	conversions/geocent.cpp \
 	conversions/noop.cpp \

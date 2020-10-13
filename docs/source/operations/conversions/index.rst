@@ -13,6 +13,7 @@ conversions.
 
    axisswap
    cart
+   colurban
    geoc
    latlon
    noop
